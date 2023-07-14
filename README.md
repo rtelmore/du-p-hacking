@@ -1,1 +1,1 @@
-# du-p-hacking
+# DU P-Hacking Research
